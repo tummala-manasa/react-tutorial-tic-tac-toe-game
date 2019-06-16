@@ -1,4 +1,4 @@
-This project is the tic-tac-toe game mentioned in the React tutorials with solutions to the all six questions mentioned at the end.
+This project is the tic-tac-toe game mentioned in the React tutorials with solutions to all the six questions mentioned at the end.
 
 Here is the link to the tutorial
 https://5bcf5863c6aed64970d6de5b--reactjs.netlify.com/tutorial/tutorial.html
